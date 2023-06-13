@@ -6,6 +6,7 @@ Offizielles Plugin von [Aare.guru](https://aare.guru).
 
 ## Installation
 
+- Node.js in Version v17.5 oder höher
 - [BitBar](https://getbitbar.com) herunterladen und installieren.
 - Installations-Link in die Adresszeile deines Browsers kopieren (Oder manuell die Datei `aareguru.5m.js` in dein BitBar-Plugins-Verzeichnis kopieren und dann mit `chmod +x aareguru.5m.js` ausführbar machen):
 
