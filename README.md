@@ -11,6 +11,7 @@ Offizielles Plugin von [Aare.guru](https://aare.guru).
 
 > `bitbar://openPlugin?src=https://github.com/RaphaelHaettich/aare.guru.bitbar.js/raw/master/aareguru.5m.php`
 
+- Wenn das Script nicht funktioniert, den Path auf der ersten Zeile zu node anpassen.
 - Du kannst uns vertrauen.
 - Optional in der Datei deine Schmerzgrenze (Ab dieser Temperatur wechselt die Anzeige auf ein freundliches Grün) und einen anderen Ort konfigurieren; unterhalb der Zeile `// Configuration`.
 
