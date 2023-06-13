@@ -1,15 +1,15 @@
 # Aare.guru für BitBar
 
-Die aktuelle Aare-Temperatur in deiner MacOS-Menuzeile.
+Die aktuelle Aare-Temperatur in deiner MacOS-Menuzeile jetzt in JavaScript.
 
 Offizielles Plugin von [Aare.guru](https://aare.guru).
 
 ## Installation
 
 - [BitBar](https://getbitbar.com) herunterladen und installieren.
-- Installations-Link in die Adresszeile deines Browsers kopieren (Oder manuell die Datei `aareguru.5m.php` in dein BitBar-Plugins-Verzeichnis kopieren und dann mit `chmod +x aareguru.5m.php` ausführbar machen):
+- Installations-Link in die Adresszeile deines Browsers kopieren (Oder manuell die Datei `aareguru.5m.js` in dein BitBar-Plugins-Verzeichnis kopieren und dann mit `chmod +x aareguru.5m.js` ausführbar machen):
 
-> `bitbar://openPlugin?src=https://github.com/aareguru/aare.guru.bitbar/raw/master/aareguru.5m.php`
+> `bitbar://openPlugin?src=https://github.com/RaphaelHaettich/aare.guru.bitbar.js/raw/master/aareguru.5m.php`
 
 - Du kannst uns vertrauen.
 - Optional in der Datei deine Schmerzgrenze (Ab dieser Temperatur wechselt die Anzeige auf ein freundliches Grün) und einen anderen Ort konfigurieren; unterhalb der Zeile `// Configuration`.
@@ -22,6 +22,7 @@ Die [API](https://aareguru.existenz.ch) ist für die Webseite [Aare.guru](https:
 
 ## Verwandte Projekte
 
+- Die originale Aare Guru Bitbar in PHP [aare.guru.bitbar](https://github.com/Aareguru/aare.guru.bitbar)
 - Offizielle [Firefox-Extension](https://addons.mozilla.org/de/firefox/addon/aare-guru/)
 - Offizielle [Chrome-Extension](https://chrome.google.com/webstore/detail/aareguru/oaicpaghidmlakfogpmjpopkjhncjjfe?hl=de)
 - [CLI-Client](https://github.com/gexclaude/aaregurucli/)
